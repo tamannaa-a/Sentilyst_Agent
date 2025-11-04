@@ -1,0 +1,16 @@
+streamlit
+transformers
+torch
+sentencepiece
+pandas
+numpy
+plotly
+prophet
+snscrape
+langchain
+openai
+apscheduler
+sqlalchemy
+requests
+python-dotenv
+schedule
