@@ -28,12 +28,6 @@ Users can **type or speak** their emotions, and Sentilyst:
 ✅ Professional Dashboard — Interactive Plotly graphs in Streamlit  
 ✅ Works Fully Offline (No API Keys Needed)
 
----
-
-## 🏗️ Architecture
-
-
----
 
 ## 🤖 Models & Tools Used
 
